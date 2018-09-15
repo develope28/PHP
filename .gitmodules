@@ -1,0 +1,3 @@
+[submodule "pdo_sample"]
+	path = pdo_sample
+	url = https://github.com/develope28/php.git
